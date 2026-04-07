@@ -22,7 +22,7 @@ I specialize in designing clean architectures, building REST APIs, and developin
 
 **Backend:**
 
-- PHP, Laravel, Python
+- PHP: Laravel, Python: Django
 
 **Database:**
 
