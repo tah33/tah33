@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tanvir Ahmed
 
-### 🚀 Senior Laravel Developer | 6+ Years Experience
+### 🚀 Senior Software Engineer | 6+ Years Experience
 
 I’m a backend-focused web developer with over 6 years of experience building scalable, secure, and high-performance web applications using Laravel and modern PHP technologies.
 
