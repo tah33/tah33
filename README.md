@@ -60,18 +60,6 @@ I specialize in designing clean architectures, building REST APIs, and developin
 
 ---
 
-## 📌 Featured Projects
-
-> 🚧 Projects will be added soon. Currently working on production-quality open-source repositories.
-
-Planned projects:
-
-- 🔹 Laravel Mini CRM (Admin Panel + API)
-- 🔹 REST API with Authentication & Versioning
-- 🔹 Scalable SaaS Application (Modular Structure)
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: [tahmedhera@gmail.com](mailto\:your-email@example.com)
