@@ -2,7 +2,7 @@
 
 ### 🚀 Senior Software Engineer | 6+ Years Experience
 
-I’m a backend-focused web developer with over 6 years of experience building scalable, secure, and high-performance web applications using Laravel and modern PHP technologies.
+I'm a backend-focused web developer with over 6 years of experience building scalable, secure, and high-performance web applications using Laravel and modern PHP technologies.
 
 I specialize in designing clean architectures, building REST APIs, and developing real-world business solutions like SaaS platforms, admin panels, and e-commerce systems.
 
@@ -62,9 +62,10 @@ I specialize in designing clean architectures, building REST APIs, and developin
 
 ## 📫 Contact Me
 
-- 📧 Email: [tahmedhera@gmail.com](mailto\:your-email@example.com)
-- 💼 LinkedIn: https\://www\.linkedin.com/in/tanvir-ahmed-hera
-- 🌐 Portfolio: [https://drive.google.com/file/d/19hXiDle908NWGN0JsOm693WQGvPh0R6v/view?usp=drive\_link](https://drive.google.com/file/d/19hXiDle908NWGN0JsOm693WQGvPh0R6v/view?usp=drive_link)
+- 📧 Email: [tahmedhera@gmail.com](mailto:tahmedhera@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/tanvir-ahmed-hera
+- 📄 Resume: [Download Resume](https://tanvir-ahmed-hera.vercel.app/tanvir-ahmed-hera-resume.pdf)
+- 🌐 Portfolio: [Check My Portfolio](https://tanvir-ahmed-hera.vercel.app)
 
 ---
 
